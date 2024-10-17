@@ -1,0 +1,62 @@
+[
+  {
+    "id":  1,
+    "descripcion": "Dólar estadounidense =>> Sol peruano",
+    "base": "USD",
+    "cambio": "PEN"
+  },
+  {
+    "id":  2,
+    "descripcion": "Sol peruano =>> Dólar estadounidense",
+    "base": "PEN",
+    "cambio": "USD"
+  },
+  {
+    "id":  3,
+    "descripcion": "Dólar estadounidense =>> Peso argentino",
+    "base": "USD",
+    "cambio": "ARS"
+  },
+  {
+    "id":  4,
+    "descripcion": "Peso argentino =>> Dólar estadounidense",
+    "base": "ARS",
+    "cambio": "USD"
+  },
+  {
+    "id":  5,
+    "descripcion": "Dólar estadounidense =>> Real brasileño",
+    "base": "USD",
+    "cambio": "BRL"
+  },
+  {
+    "id":  6,
+    "descripcion": "Real brasileño =>> Dólar estadounidense",
+    "base": "BRL",
+    "cambio": "USD"
+  },
+  {
+    "id":  7,
+    "descripcion": "Dólar estadounidense =>> Peso colombiano",
+    "base": "USD",
+    "cambio": "COP"
+  },
+  {
+    "id":  8,
+    "descripcion": "Peso colombiano =>> Dólar estadounidense",
+    "base": "COP",
+    "cambio": "USD"
+  },
+  {
+    "id":  9,
+    "descripcion": "Mostrar el historial",
+    "base": "",
+    "cambio": ""
+  },
+  {
+    "id": 10,
+    "descripcion": "Salir",
+    "base": "",
+    "cambio": ""
+  }
+]
